@@ -29,3 +29,7 @@
    javac CollectCoins.java
    java CollectCoins
 
+## 🖼️ Screenshot
+
+![App Screenshot](images/screenshotForGITHUB.png)
+
